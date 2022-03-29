@@ -1,0 +1,4 @@
+# Analysis_Sweets
+In dieser Fallstudie geht es um die Erforschung der Charakteristika von Süßigkeiten, um davon ausgehend eine neue, möglichst gute Süßigkeit zu erstellen. Die zugrundeliegenden Daten sind dabei von einem GitHub Repository.
+Der Datensatz beinhaltet 85 verschiedene Süßigkeiten, die dazugehörgigen Katrgorien, die Zucker und Preis Spanne und die Winperecent. Die Daten sind zwar nicht wissenschaftlich erhoben worden, basieren aber auf einer Umfrage mit 290.000 Meinungen, die uns einen Einblick in die Präferenzen von Süßigkeiten geben können.
+Wir beginnen damit, die Bibliotheken und die Daten in das Notebook zu laden, die Daten zu untersuchen und einige grundlegende Einblicke in die deskriptiven Statistiken zu erhalten. Als Nächstes visualisieren wir einige der Daten, um ein intuitiveres Verständnis für die Daten zu bekommen, bevor wir versuchen, das beste Süßigkeitenrezept zu finden.
